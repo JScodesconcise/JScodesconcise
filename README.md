@@ -1,35 +1,27 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=Hello%20I'm%20Luca%20Stefanescu&fontSize=42&fontAlignY=38&desc=I%20solve%20problems%20with%20data%20and%20code.&descAlignY=62&fontColor=222222" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:020617,55:0f172a,100:022c22&text=JOHN%20%7C%20SOFTWARE%20DEVELOPER&fontColor=ccfbf1&fontSize=34&fontAlignY=42&desc=Backend%20Systems%20%E2%80%A2%20Infrastructure%20Automation%20%E2%80%A2%20Open%20Source&descAlignY=68&descSize=15" />
+<h2 align="center">Currently Working On</h2>
 
-<br>
-
-<img src="https://img.shields.io/badge/BUILDING-backend%20systems-064e3b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DEBUGGING-linux%20%2B%20docker-0f766e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-open%20source-0891b2?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <strong>Ansible</strong>
+</p>
 
 <br>
 
-<table>
-<tr>
-<td width="60%">
+<h2 align="center">Tech Stack</h2>
 
-### Signal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,aws,java,spring,linux,git,react,mysql&perline=9" />
+</p>
 
-I’m a software developer with a Computer Science and Statistics background, focused on backend engineering, infrastructure automation, and open-source development.
+<br>
 
-I like working on systems that involve real debugging: Linux environments, Dockerized services, backend APIs, automation tools, test failures, and edge cases that need careful reproduction.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucastefanescu&show_icons=true&hide_border=true&title_color=0078ff&icon_color=ff6b6b&text_color=222222&bg_color=ffffff" />
+</p>
 
-</td>
-<td width="40%">
-
-### Current Mode
-
-```txt
-role       software developer
-focus      backend / infrastructure
-style      debug → test → fix
-tools      linux, docker, git
-interest   open-source systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastefanescu&layout=compact&hide_border=true&title_color=0078ff&text_color=222222&bg_color=ffffff" />
+</p>
